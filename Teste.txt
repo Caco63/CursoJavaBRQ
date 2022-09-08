@@ -2,4 +2,4 @@
 
 // Mudança de conteúdo do arquivo.
 
-// Alteração pela intrface WEB - via Git - 
+// Alteração pela intrface WEB - via Git
