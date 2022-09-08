@@ -1,4 +1,4 @@
 Teste de exemplo de versionamento de arquivos.
 
 // Mudança de conteúdo do arquivo.
-
+Alterado.
